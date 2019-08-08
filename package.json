@@ -1,0 +1,25 @@
+{
+  "name": "nicklocaso-mongoose",
+  "version": "1.0.0",
+  "description": "Mongoose Helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicklocaso/nicklocaso-mongoose.git"
+  },
+  "keywords": [
+    "mongoose"
+  ],
+  "author": "Nicola Lo Caso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicklocaso/nicklocaso-mongoose/issues"
+  },
+  "homepage": "https://github.com/nicklocaso/nicklocaso-mongoose#readme",
+  "dependencies": {
+    "mongoose": "^5.6.9"
+  }
+}
