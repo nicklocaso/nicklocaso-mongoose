@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/nicklocaso/nicklocaso-mongoose#readme",
   "dependencies": {
-    "mongoose": "^5.6.9"
+    "mongoose": "^5.7.5"
   }
 }
